@@ -44,5 +44,4 @@ This project is a keylogger that captures keystrokes, encrypts the captured data
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Disclaimer
-This tool is intended for educational purposes only. Unauthorized use of keyloggers is illegal and unethical. Ensure you have explicit permission before using this software.
+
