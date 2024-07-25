@@ -1,5 +1,5 @@
-Keylogger and Encryption Tool
-Project Description
+###Keylogger and Encryption Tool
+##Project Description
 This project is a keylogger that captures keystrokes, encrypts the captured data using the Fernet encryption algorithm, and sends the encrypted data along with the encryption key via email. The tool demonstrates keylogging, data encryption, and secure data transmission using Python.
 
 Features
